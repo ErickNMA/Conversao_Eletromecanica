@@ -1,7 +1,0 @@
-* Partida direta Delta (tensão plena - 180V)
-
-* Partida direta Y (tensão 180/sqrt(3))
-
-* Partida Estrela -> Delta
-
-* Tentar pegar curvas de tensão, corrente, velocidade, torque e referência
